@@ -1,5 +1,5 @@
-stackoverflow.com###hot-network-questions
-stackoverflow.com##.mb16.s-anchors
+stackoverflow.com,superuser.com###hot-network-questions
+stackoverflow.com,superuser.com##.mb16.s-anchors
 www.wikiwand.com##.Template-Fact
 www.wikiwand.com##.selfreference
 www.wikiwand.com##.title_wrapper > h2
