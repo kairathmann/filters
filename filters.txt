@@ -7,3 +7,7 @@ www.wikiwand.com##.Template-Fact
 www.wikiwand.com##.selfreference
 www.wikiwand.com##.title_wrapper > h2
 www.wikiwand.com##.wiki_alert
+! up next
+www.youtube.com###items
+! comments
+www.youtube.com###sections
