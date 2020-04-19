@@ -1,5 +1,7 @@
 ! feedback form above video
 classroom.udacity.com##.index--info-box--qf3s2
+! newsletter signup forms
+fortelabs.co##form
 stackoverflow.com,superuser.com###hot-network-questions
 stackoverflow.com,superuser.com##.mb16.s-anchors
 ! article message box
